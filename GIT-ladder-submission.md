@@ -167,7 +167,7 @@ could happen.**
 **3. In assignment 9 you resolved a conflict. Why could Git not resolve it for you —
 what exactly did it not know?**
 
->
+>it didn't solve it because i should decide which merge i should keep in main
 
 **4. `git revert` and `git reset` both undo things. When would you reach for each, and
 which one is safe on a branch other people have pulled?**
